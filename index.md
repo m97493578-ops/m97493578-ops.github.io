@@ -5,4 +5,6 @@
 This is my main summer vacation development dashboard site.
 
 ## My Projects:
-* I have alot you can see at https://github.com/m97493578-ops but right now im not adding them here untill later
+* [PocketPython](https://github.com/m97493578-ops/PocketPython)
+* [Pocket Pycharm](https://github.com/m97493578-ops/PocketPyCharm)
+* [Software-Forge](https://github.com/m97493578-ops/Software-Forge)
